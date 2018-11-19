@@ -1,5 +1,1 @@
 Mimi
-<<<<<<< HEAD
-=======
-Kotechko
->>>>>>> testing
